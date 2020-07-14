@@ -1,0 +1,2 @@
+# BaiduHomePageImitation
+使用HTML和CSS模仿百度首页
